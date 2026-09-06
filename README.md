@@ -27,3 +27,20 @@ Chương trình thực hiện:
 - Điểm cao nhất: 9
 - Kết quả: Đạt
 - Link: https://pl.kotl.in/MxamNBucr
+
+##  Bài tập vòng lặp
+
+### Bài 1
+In các số từ 1 đến 10.
+
+### Bài 2
+Tính tổng:
+
+1 + 2 + 3 + ... + 100
+
+Kết quả: 5050.
+
+### Bài 3
+In các số chẵn từ 1 đến 20.
+
+Link: https://pl.kotl.in/2KuyJxzNI
