@@ -1,0 +1,38 @@
+fun main() {
+
+    // Bài 1: In các số từ 1 đến 10
+    println("===== BÀI 1 =====")
+    println("Các số từ 1 đến 10:")
+
+    for (i in 1..10) {
+        print("$i ")
+    }
+
+    println()
+    println()
+
+    // Bài 2: Tính tổng từ 1 đến 100
+    println("===== BÀI 2 =====")
+
+    var tong = 0
+
+    for (i in 1..100) {
+        tong += i
+    }
+
+    println("Tổng 1 + 2 + 3 + ... + 100 = $tong")
+
+    println()
+
+    // Bài 3: In các số chẵn từ 1 đến 20
+    println("===== BÀI 3 =====")
+    println("Các số chẵn từ 1 đến 20:")
+
+    for (i in 1..20) {
+        if (i % 2 == 0) {
+            print("$i ")
+        }
+    }
+
+    println()
+}
